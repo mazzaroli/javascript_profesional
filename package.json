@@ -1,0 +1,15 @@
+{
+  "name": "curso-profesional-de-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "keywords": [],
+  "author": "Carlos Mazzaroli <carlitosmazaroli@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.1.0"
+  }
+}
